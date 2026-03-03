@@ -1,7 +1,5 @@
 Hello World! 🐳🌻🍄
 
-Sent from my Motorola
-
 <!--
 **MartaKotowska/MartaKotowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
